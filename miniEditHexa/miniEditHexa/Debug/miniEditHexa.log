@@ -1,0 +1,8 @@
+﻿  Source.c
+c:\users\veillardje\documents\visual studio 2015\projects\miniedithexa\miniedithexa\source.c(96): warning C4013: 'system' non défini(e) ; extern retournant int pris par défaut
+c:\users\veillardje\documents\visual studio 2015\projects\miniedithexa\miniedithexa\source.c(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: voir la déclaration de 'fopen'
+c:\users\veillardje\documents\visual studio 2015\projects\miniedithexa\miniedithexa\source.c(16): warning C4101: 'Test' : variable locale non référencée
+c:\users\veillardje\documents\visual studio 2015\projects\miniedithexa\miniedithexa\source.c(14): warning C4101: 'Nom' : variable locale non référencée
+  miniEditHexa.vcxproj -> C:\Users\veillardje\Documents\Visual Studio 2015\Projects\miniEditHexa\Debug\miniEditHexa.exe
+  miniEditHexa.vcxproj -> C:\Users\veillardje\Documents\Visual Studio 2015\Projects\miniEditHexa\Debug\miniEditHexa.pdb (Full PDB)

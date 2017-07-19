@@ -1,0 +1,9 @@
+C:\Programmes C#\ExCryptage\ExCryptage\bin\Debug\ExCryptage.exe.config
+C:\Programmes C#\ExCryptage\ExCryptage\obj\Debug\ExCryptage.csprojResolveAssemblyReference.cache
+C:\Programmes C#\ExCryptage\ExCryptage\obj\Debug\ExCryptage.frmCryptage.resources
+C:\Programmes C#\ExCryptage\ExCryptage\obj\Debug\ExCryptage.Properties.Resources.resources
+C:\Programmes C#\ExCryptage\ExCryptage\obj\Debug\ExCryptage.csproj.GenerateResource.Cache
+C:\Programmes C#\ExCryptage\ExCryptage\bin\Debug\ExCryptage.exe
+C:\Programmes C#\ExCryptage\ExCryptage\bin\Debug\ExCryptage.pdb
+C:\Programmes C#\ExCryptage\ExCryptage\obj\Debug\ExCryptage.exe
+C:\Programmes C#\ExCryptage\ExCryptage\obj\Debug\ExCryptage.pdb

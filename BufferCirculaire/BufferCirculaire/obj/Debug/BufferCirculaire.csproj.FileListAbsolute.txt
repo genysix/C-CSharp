@@ -1,0 +1,24 @@
+M:\CIFOM-ET\Connaissance de base\AP-B Analyse et programmation de base\BufferCirculaire\BufferCirculaire\bin\Debug\BufferCirculaire.exe.config
+M:\CIFOM-ET\Connaissance de base\AP-B Analyse et programmation de base\BufferCirculaire\BufferCirculaire\bin\Debug\BufferCirculaire.exe
+M:\CIFOM-ET\Connaissance de base\AP-B Analyse et programmation de base\BufferCirculaire\BufferCirculaire\bin\Debug\BufferCirculaire.pdb
+M:\CIFOM-ET\Connaissance de base\AP-B Analyse et programmation de base\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.csprojResolveAssemblyReference.cache
+M:\CIFOM-ET\Connaissance de base\AP-B Analyse et programmation de base\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.BufferCirculaire.resources
+M:\CIFOM-ET\Connaissance de base\AP-B Analyse et programmation de base\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.Properties.Resources.resources
+M:\CIFOM-ET\Connaissance de base\AP-B Analyse et programmation de base\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.csproj.GenerateResource.Cache
+M:\CIFOM-ET\Connaissance de base\AP-B Analyse et programmation de base\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.exe
+M:\CIFOM-ET\Connaissance de base\AP-B Analyse et programmation de base\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.pdb
+\\mc0-0314-06\c$\Programmes C#\BufferCirculaire\BufferCirculaire\bin\Debug\BufferCirculaire.exe.config
+\\mc0-0314-06\c$\Programmes C#\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.exe
+\\mc0-0314-06\c$\Programmes C#\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.pdb
+\\mc0-0314-06\c$\Programmes C#\BufferCirculaire\BufferCirculaire\bin\Debug\BufferCirculaire.exe
+\\mc0-0314-06\c$\Programmes C#\BufferCirculaire\BufferCirculaire\bin\Debug\BufferCirculaire.pdb
+\\mc0-0314-06\c$\Programmes C#\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.csprojResolveAssemblyReference.cache
+\\mc0-0314-06\c$\Programmes C#\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.BufferCirculaire.resources
+\\mc0-0314-06\c$\Programmes C#\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.Properties.Resources.resources
+\\mc0-0314-06\c$\Programmes C#\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.csproj.GenerateResource.Cache
+R:\BoitesClasses\PT-TIN-IT\1P-TIN-IT2\Programmation\BufferCirculaire\BufferCirculaire\bin\Debug\BufferCirculaire.exe.config
+R:\BoitesClasses\PT-TIN-IT\1P-TIN-IT2\Programmation\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.exe
+R:\BoitesClasses\PT-TIN-IT\1P-TIN-IT2\Programmation\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.pdb
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\BufferCirculaire\BufferCirculaire\bin\Debug\BufferCirculaire.exe.config
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\BufferCirculaire\BufferCirculaire\obj\Debug\BufferCirculaire.pdb

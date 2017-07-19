@@ -1,0 +1,9 @@
+c:\users\administrateur\documents\visual studio 2015\Projects\chercheE\chercheE\bin\Debug\chercheE.exe.config
+c:\users\administrateur\documents\visual studio 2015\Projects\chercheE\chercheE\bin\Debug\chercheE.exe
+c:\users\administrateur\documents\visual studio 2015\Projects\chercheE\chercheE\bin\Debug\chercheE.pdb
+c:\users\administrateur\documents\visual studio 2015\Projects\chercheE\chercheE\obj\Debug\chercheE.csprojResolveAssemblyReference.cache
+c:\users\administrateur\documents\visual studio 2015\Projects\chercheE\chercheE\obj\Debug\chercheE.Form1.resources
+c:\users\administrateur\documents\visual studio 2015\Projects\chercheE\chercheE\obj\Debug\chercheE.Properties.Resources.resources
+c:\users\administrateur\documents\visual studio 2015\Projects\chercheE\chercheE\obj\Debug\chercheE.csproj.GenerateResource.Cache
+c:\users\administrateur\documents\visual studio 2015\Projects\chercheE\chercheE\obj\Debug\chercheE.exe
+c:\users\administrateur\documents\visual studio 2015\Projects\chercheE\chercheE\obj\Debug\chercheE.pdb

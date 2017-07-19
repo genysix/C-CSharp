@@ -1,0 +1,10 @@
+c:\users\administrateur\documents\visual studio 2015\Projects\CryptoFile\CryptoFile\bin\Debug\CryptoFile.exe.config
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CryptoFile\CryptoFile\bin\Debug\CryptoFile.exe.config
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CryptoFile\CryptoFile\obj\Debug\CryptoFile.csprojResolveAssemblyReference.cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CryptoFile\CryptoFile\obj\Debug\CryptoFile.Form1.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CryptoFile\CryptoFile\obj\Debug\CryptoFile.Properties.Resources.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CryptoFile\CryptoFile\obj\Debug\CryptoFile.csproj.GenerateResource.Cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CryptoFile\CryptoFile\bin\Debug\CryptoFile.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CryptoFile\CryptoFile\bin\Debug\CryptoFile.pdb
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CryptoFile\CryptoFile\obj\Debug\CryptoFile.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CryptoFile\CryptoFile\obj\Debug\CryptoFile.pdb

@@ -1,0 +1,9 @@
+﻿  Source.c
+c:\users\veillardje\documents\visual studio 2015\projects\lecturehex\lecturehex\source.c(48): warning C4013: 'system' non défini(e) ; extern retournant int pris par défaut
+c:\users\veillardje\documents\visual studio 2015\projects\lecturehex\lecturehex\source.c(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: voir la déclaration de 'fopen'
+c:\users\veillardje\documents\visual studio 2015\projects\lecturehex\lecturehex\source.c(34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: voir la déclaration de 'fopen'
+c:\users\veillardje\documents\visual studio 2015\projects\lecturehex\lecturehex\source.c(24): warning C4101: 'c' : variable locale non référencée
+  LectureHex.vcxproj -> C:\Users\veillardje\Documents\Visual Studio 2015\Projects\LectureHex\Debug\LectureHex.exe
+  LectureHex.vcxproj -> C:\Users\veillardje\Documents\Visual Studio 2015\Projects\LectureHex\Debug\LectureHex.pdb (Full PDB)

@@ -1,0 +1,9 @@
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\troisSages\troisSages\bin\Debug\troisSages.exe.config
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\troisSages\troisSages\bin\Debug\troisSages.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\troisSages\troisSages\bin\Debug\troisSages.pdb
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\troisSages\troisSages\obj\Debug\troisSages.csprojResolveAssemblyReference.cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\troisSages\troisSages\obj\Debug\troisSages.Properties.Resources.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\troisSages\troisSages\obj\Debug\troisSages.csproj.GenerateResource.Cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\troisSages\troisSages\obj\Debug\troisSages.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\troisSages\troisSages\obj\Debug\troisSages.pdb
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\troisSages\troisSages\obj\Debug\troisSages.Form1.resources

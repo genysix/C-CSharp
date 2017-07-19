@@ -1,0 +1,5 @@
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\MonPoint\MonPoint\bin\Debug\MonPoint.dll
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\MonPoint\MonPoint\bin\Debug\MonPoint.pdb
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\MonPoint\MonPoint\obj\Debug\LibMonPoint.csprojResolveAssemblyReference.cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\MonPoint\MonPoint\obj\Debug\MonPoint.dll
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\MonPoint\MonPoint\obj\Debug\MonPoint.pdb

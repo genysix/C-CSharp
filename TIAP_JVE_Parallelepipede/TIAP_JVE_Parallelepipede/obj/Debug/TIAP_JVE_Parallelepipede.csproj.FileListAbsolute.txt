@@ -1,0 +1,9 @@
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP_JVE_Parallelepipede\TIAP_JVE_Parallelepipede\bin\Debug\TIAP_JVE_Parallelepipede.exe.config
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP_JVE_Parallelepipede\TIAP_JVE_Parallelepipede\bin\Debug\TIAP_JVE_Parallelepipede.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP_JVE_Parallelepipede\TIAP_JVE_Parallelepipede\bin\Debug\TIAP_JVE_Parallelepipede.pdb
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP_JVE_Parallelepipede\TIAP_JVE_Parallelepipede\obj\Debug\TIAP_JVE_Parallelepipede.csprojResolveAssemblyReference.cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP_JVE_Parallelepipede\TIAP_JVE_Parallelepipede\obj\Debug\TIAP_JVE_Parallelepipede.Form1.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP_JVE_Parallelepipede\TIAP_JVE_Parallelepipede\obj\Debug\TIAP_JVE_Parallelepipede.Properties.Resources.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP_JVE_Parallelepipede\TIAP_JVE_Parallelepipede\obj\Debug\TIAP_JVE_Parallelepipede.csproj.GenerateResource.Cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP_JVE_Parallelepipede\TIAP_JVE_Parallelepipede\obj\Debug\TIAP_JVE_Parallelepipede.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP_JVE_Parallelepipede\TIAP_JVE_Parallelepipede\obj\Debug\TIAP_JVE_Parallelepipede.pdb

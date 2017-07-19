@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\veillardje\documents\visual studio 2015\projects\decimal\decimal\source.c(13): warning C4013: 'system' non défini(e) ; extern retournant int pris par défaut
+  decimal.vcxproj -> C:\Users\veillardje\Documents\Visual Studio 2015\Projects\decimal\Debug\decimal.exe
+  decimal.vcxproj -> C:\Users\veillardje\Documents\Visual Studio 2015\Projects\decimal\Debug\decimal.pdb (Full PDB)

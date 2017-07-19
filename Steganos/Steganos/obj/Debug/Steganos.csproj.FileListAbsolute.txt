@@ -1,0 +1,12 @@
+C:\Users\sadikuve\Desktop\SadikuVe\Steganos\Steganos\bin\Debug\Steganos.exe.config
+C:\Users\sadikuve\Desktop\SadikuVe\Steganos\Steganos\bin\Debug\Steganos.exe
+C:\Users\sadikuve\Desktop\SadikuVe\Steganos\Steganos\bin\Debug\Steganos.pdb
+C:\Users\sadikuve\Desktop\SadikuVe\Steganos\Steganos\obj\Debug\Steganos.csprojResolveAssemblyReference.cache
+C:\Users\sadikuve\Desktop\SadikuVe\Steganos\Steganos\obj\Debug\Steganos.Form1.resources
+C:\Users\sadikuve\Desktop\SadikuVe\Steganos\Steganos\obj\Debug\Steganos.Properties.Resources.resources
+C:\Users\sadikuve\Desktop\SadikuVe\Steganos\Steganos\obj\Debug\Steganos.csproj.GenerateResource.Cache
+C:\Users\sadikuve\Desktop\SadikuVe\Steganos\Steganos\obj\Debug\Steganos.exe
+C:\Users\sadikuve\Desktop\SadikuVe\Steganos\Steganos\obj\Debug\Steganos.pdb
+C:\Users\faucherec\Documents\Visual Studio 2015\Projects\Steganos\Steganos\bin\Debug\Steganos.exe.config
+C:\Users\faucherec\Documents\Visual Studio 2015\Projects\Steganos\Steganos\obj\Debug\Steganos.exe
+C:\Users\faucherec\Documents\Visual Studio 2015\Projects\Steganos\Steganos\obj\Debug\Steganos.pdb

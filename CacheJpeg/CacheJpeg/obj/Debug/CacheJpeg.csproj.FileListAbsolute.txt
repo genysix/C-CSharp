@@ -1,0 +1,10 @@
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CacheJpeg\CacheJpeg\bin\Debug\CacheJpeg.exe.config
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CacheJpeg\CacheJpeg\bin\Debug\CacheJpeg.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CacheJpeg\CacheJpeg\bin\Debug\CacheJpeg.pdb
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CacheJpeg\CacheJpeg\obj\Debug\CacheJpeg.csprojResolveAssemblyReference.cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CacheJpeg\CacheJpeg\obj\Debug\CacheJpeg.Form1.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CacheJpeg\CacheJpeg\obj\Debug\CacheJpeg.Form2.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CacheJpeg\CacheJpeg\obj\Debug\CacheJpeg.Properties.Resources.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CacheJpeg\CacheJpeg\obj\Debug\CacheJpeg.csproj.GenerateResource.Cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CacheJpeg\CacheJpeg\obj\Debug\CacheJpeg.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CacheJpeg\CacheJpeg\obj\Debug\CacheJpeg.pdb

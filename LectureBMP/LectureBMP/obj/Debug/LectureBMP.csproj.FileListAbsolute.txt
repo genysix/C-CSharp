@@ -1,0 +1,9 @@
+C:\Programmes C#\LectureBMP\LectureBMP\bin\Debug\LectureBMP.exe.config
+C:\Programmes C#\LectureBMP\LectureBMP\bin\Debug\LectureBMP.exe
+C:\Programmes C#\LectureBMP\LectureBMP\bin\Debug\LectureBMP.pdb
+C:\Programmes C#\LectureBMP\LectureBMP\obj\Debug\LectureBMP.csprojResolveAssemblyReference.cache
+C:\Programmes C#\LectureBMP\LectureBMP\obj\Debug\LectureBMP.Form1.resources
+C:\Programmes C#\LectureBMP\LectureBMP\obj\Debug\LectureBMP.Properties.Resources.resources
+C:\Programmes C#\LectureBMP\LectureBMP\obj\Debug\LectureBMP.csproj.GenerateResource.Cache
+C:\Programmes C#\LectureBMP\LectureBMP\obj\Debug\LectureBMP.exe
+C:\Programmes C#\LectureBMP\LectureBMP\obj\Debug\LectureBMP.pdb

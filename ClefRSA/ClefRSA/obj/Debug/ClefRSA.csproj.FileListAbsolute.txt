@@ -1,0 +1,9 @@
+C:\Programmes C#\ClefRSA\ClefRSA\bin\Debug\ClefRSA.exe.config
+C:\Programmes C#\ClefRSA\ClefRSA\obj\Debug\ClefRSA.csprojResolveAssemblyReference.cache
+C:\Programmes C#\ClefRSA\ClefRSA\obj\Debug\ClefRSA.Form1.resources
+C:\Programmes C#\ClefRSA\ClefRSA\obj\Debug\ClefRSA.Properties.Resources.resources
+C:\Programmes C#\ClefRSA\ClefRSA\obj\Debug\ClefRSA.csproj.GenerateResource.Cache
+C:\Programmes C#\ClefRSA\ClefRSA\bin\Debug\ClefRSA.exe
+C:\Programmes C#\ClefRSA\ClefRSA\bin\Debug\ClefRSA.pdb
+C:\Programmes C#\ClefRSA\ClefRSA\obj\Debug\ClefRSA.exe
+C:\Programmes C#\ClefRSA\ClefRSA\obj\Debug\ClefRSA.pdb

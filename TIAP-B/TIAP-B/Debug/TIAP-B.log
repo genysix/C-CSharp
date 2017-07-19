@@ -1,0 +1,4 @@
+﻿  exercice3.c
+c:\users\veillardje\desktop\tiap-b\tiap-b\exercice3.c(11): warning C4013: 'system' non défini(e) ; extern retournant int pris par défaut
+  TIAP-B.vcxproj -> C:\Users\veillardje\Desktop\TIAP-B\Debug\TIAP-B.exe
+  TIAP-B.vcxproj -> C:\Users\veillardje\Desktop\TIAP-B\Debug\TIAP-B.pdb (Full PDB)

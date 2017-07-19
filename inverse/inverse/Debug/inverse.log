@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\veillardje\documents\visual studio 2015\projects\inverse\inverse\source.c(13): warning C4013: 'system' non défini(e) ; extern retournant int pris par défaut
+c:\users\veillardje\documents\visual studio 2015\projects\inverse\inverse\source.c(7): warning C4101: 'i' : variable locale non référencée
+  inverse.vcxproj -> C:\Users\veillardje\Documents\Visual Studio 2015\Projects\inverse\Debug\inverse.exe
+  inverse.vcxproj -> C:\Users\veillardje\Documents\Visual Studio 2015\Projects\inverse\Debug\inverse.pdb (Full PDB)

@@ -1,0 +1,18 @@
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Stetanos\Stetanos\bin\Debug\Stetanos.exe.config
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Stetanos\Stetanos\bin\Debug\Stetanos.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Stetanos\Stetanos\bin\Debug\Stetanos.pdb
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Stetanos\Stetanos\obj\Debug\Stetanos.csprojResolveAssemblyReference.cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Stetanos\Stetanos\obj\Debug\Stetanos.Form1.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Stetanos\Stetanos\obj\Debug\Stetanos.Properties.Resources.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Stetanos\Stetanos\obj\Debug\Stetanos.csproj.GenerateResource.Cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Stetanos\Stetanos\obj\Debug\Stetanos.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Stetanos\Stetanos\obj\Debug\Stetanos.pdb
+G:\ecole\Programmation\all project\Projects\Stetanos\Stetanos\bin\Debug\Stetanos.exe.config
+G:\ecole\Programmation\all project\Projects\Stetanos\Stetanos\obj\Debug\Stetanos.exe
+G:\ecole\Programmation\all project\Projects\Stetanos\Stetanos\obj\Debug\Stetanos.pdb
+G:\ecole\Programmation\all project\Projects\Stetanos\Stetanos\bin\Debug\Stetanos.exe
+G:\ecole\Programmation\all project\Projects\Stetanos\Stetanos\bin\Debug\Stetanos.pdb
+G:\ecole\Programmation\all project\Projects\Stetanos\Stetanos\obj\Debug\Stetanos.csprojResolveAssemblyReference.cache
+G:\ecole\Programmation\all project\Projects\Stetanos\Stetanos\obj\Debug\Stetanos.Form1.resources
+G:\ecole\Programmation\all project\Projects\Stetanos\Stetanos\obj\Debug\Stetanos.Properties.Resources.resources
+G:\ecole\Programmation\all project\Projects\Stetanos\Stetanos\obj\Debug\Stetanos.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Programmes C#\Payement Postal\PayementPostal\PayementPostal\bin\Debug\PayementPostal.exe.config
+C:\Programmes C#\Payement Postal\PayementPostal\PayementPostal\bin\Debug\PayementPostal.exe
+C:\Programmes C#\Payement Postal\PayementPostal\PayementPostal\bin\Debug\PayementPostal.pdb
+C:\Programmes C#\Payement Postal\PayementPostal\PayementPostal\obj\Debug\PayementPostal.csprojResolveAssemblyReference.cache
+C:\Programmes C#\Payement Postal\PayementPostal\PayementPostal\obj\Debug\PayementPostal.frmPayementPostal.resources
+C:\Programmes C#\Payement Postal\PayementPostal\PayementPostal\obj\Debug\PayementPostal.Properties.Resources.resources
+C:\Programmes C#\Payement Postal\PayementPostal\PayementPostal\obj\Debug\PayementPostal.csproj.GenerateResource.Cache
+C:\Programmes C#\Payement Postal\PayementPostal\PayementPostal\obj\Debug\PayementPostal.exe
+C:\Programmes C#\Payement Postal\PayementPostal\PayementPostal\obj\Debug\PayementPostal.pdb

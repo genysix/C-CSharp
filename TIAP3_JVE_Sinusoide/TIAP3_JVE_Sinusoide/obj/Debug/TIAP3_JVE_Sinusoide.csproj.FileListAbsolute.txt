@@ -1,0 +1,8 @@
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP3_JVE_Sinusoide\TIAP3_JVE_Sinusoide\bin\Debug\TIAP3_JVE_Sinusoide.exe.config
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP3_JVE_Sinusoide\TIAP3_JVE_Sinusoide\bin\Debug\TIAP3_JVE_Sinusoide.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP3_JVE_Sinusoide\TIAP3_JVE_Sinusoide\bin\Debug\TIAP3_JVE_Sinusoide.pdb
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP3_JVE_Sinusoide\TIAP3_JVE_Sinusoide\obj\Debug\TIAP3_JVE_Sinusoide.Form1.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP3_JVE_Sinusoide\TIAP3_JVE_Sinusoide\obj\Debug\TIAP3_JVE_Sinusoide.Properties.Resources.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP3_JVE_Sinusoide\TIAP3_JVE_Sinusoide\obj\Debug\TIAP3_JVE_Sinusoide.csproj.GenerateResource.Cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP3_JVE_Sinusoide\TIAP3_JVE_Sinusoide\obj\Debug\TIAP3_JVE_Sinusoide.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\TIAP3_JVE_Sinusoide\TIAP3_JVE_Sinusoide\obj\Debug\TIAP3_JVE_Sinusoide.pdb

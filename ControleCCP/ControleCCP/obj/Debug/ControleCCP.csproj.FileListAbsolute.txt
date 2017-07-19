@@ -1,0 +1,9 @@
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\ControleCCP\ControleCCP\bin\Debug\ControleCCP.exe.config
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\ControleCCP\ControleCCP\bin\Debug\ControleCCP.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\ControleCCP\ControleCCP\bin\Debug\ControleCCP.pdb
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\ControleCCP\ControleCCP\obj\Debug\ControleCCP.csprojResolveAssemblyReference.cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\ControleCCP\ControleCCP\obj\Debug\ControleCCP.Form1.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\ControleCCP\ControleCCP\obj\Debug\ControleCCP.Properties.Resources.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\ControleCCP\ControleCCP\obj\Debug\ControleCCP.csproj.GenerateResource.Cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\ControleCCP\ControleCCP\obj\Debug\ControleCCP.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\ControleCCP\ControleCCP\obj\Debug\ControleCCP.pdb

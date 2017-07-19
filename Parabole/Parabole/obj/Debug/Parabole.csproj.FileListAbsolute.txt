@@ -1,0 +1,9 @@
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Parabole\Parabole\bin\Debug\Parabole.exe.config
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Parabole\Parabole\bin\Debug\Parabole.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Parabole\Parabole\bin\Debug\Parabole.pdb
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Parabole\Parabole\obj\Debug\Parabole.csprojResolveAssemblyReference.cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Parabole\Parabole\obj\Debug\Parabole.Form1.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Parabole\Parabole\obj\Debug\Parabole.Properties.Resources.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Parabole\Parabole\obj\Debug\Parabole.csproj.GenerateResource.Cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Parabole\Parabole\obj\Debug\Parabole.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Parabole\Parabole\obj\Debug\Parabole.pdb

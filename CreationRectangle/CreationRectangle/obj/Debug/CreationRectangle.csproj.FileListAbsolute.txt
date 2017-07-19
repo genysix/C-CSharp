@@ -1,0 +1,9 @@
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CreationRectangle\CreationRectangle\bin\Debug\CreationRectangle.exe.config
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CreationRectangle\CreationRectangle\bin\Debug\CreationRectangle.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CreationRectangle\CreationRectangle\bin\Debug\CreationRectangle.pdb
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CreationRectangle\CreationRectangle\obj\Debug\CreationRectangle.csprojResolveAssemblyReference.cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CreationRectangle\CreationRectangle\obj\Debug\CreationRectangle.Properties.Resources.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CreationRectangle\CreationRectangle\obj\Debug\CreationRectangle.csproj.GenerateResource.Cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CreationRectangle\CreationRectangle\obj\Debug\CreationRectangle.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CreationRectangle\CreationRectangle\obj\Debug\CreationRectangle.pdb
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\CreationRectangle\CreationRectangle\obj\Debug\CreationRectangle.Form1.resources

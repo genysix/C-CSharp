@@ -1,0 +1,9 @@
+C:\C#\BufferCirculaireV2.0\BufferCirculaireV2.0\bin\Debug\BufferCirculaireV2.0.exe.config
+C:\C#\BufferCirculaireV2.0\BufferCirculaireV2.0\obj\Debug\BufferCirculaireV2.0.csprojResolveAssemblyReference.cache
+C:\C#\BufferCirculaireV2.0\BufferCirculaireV2.0\obj\Debug\BufferCirculaireV2._0.frmBufferCirculaire.resources
+C:\C#\BufferCirculaireV2.0\BufferCirculaireV2.0\obj\Debug\BufferCirculaireV2._0.Properties.Resources.resources
+C:\C#\BufferCirculaireV2.0\BufferCirculaireV2.0\obj\Debug\BufferCirculaireV2.0.csproj.GenerateResource.Cache
+C:\C#\BufferCirculaireV2.0\BufferCirculaireV2.0\bin\Debug\BufferCirculaireV2.0.exe
+C:\C#\BufferCirculaireV2.0\BufferCirculaireV2.0\bin\Debug\BufferCirculaireV2.0.pdb
+C:\C#\BufferCirculaireV2.0\BufferCirculaireV2.0\obj\Debug\BufferCirculaireV2.0.exe
+C:\C#\BufferCirculaireV2.0\BufferCirculaireV2.0\obj\Debug\BufferCirculaireV2.0.pdb

@@ -1,0 +1,9 @@
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\veillardje\Documents\Visual Studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
